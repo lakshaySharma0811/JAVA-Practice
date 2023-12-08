@@ -11,6 +11,7 @@ public class VariableQues {
         // System.out.println("Temp in Celsius: " + tempInCelsius);
         // sc.close();
 
+        
         // 2. Write a Java program that reads a number in inches and converts it to
         // meters. (Note: One inch is 0.0254 meter)
         // Scanner sc = new Scanner(System.in);
@@ -20,6 +21,7 @@ public class VariableQues {
         // System.out.println("Number in meters: " + meters);
         // sc.close();
 
+        
         // 3. Write a Java program that reads an integer between 0 and 1000 and adds all
         // the digits in the integer.
         // Scanner sc = new Scanner(System.in);
@@ -36,6 +38,7 @@ public class VariableQues {
 
         // sc.close();
 
+        
         // 4. Write a Java program to convert minutes into years and days.
         Scanner sc = new Scanner(System.in);
         System.out.print("Number of minutes: ");
