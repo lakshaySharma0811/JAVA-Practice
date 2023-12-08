@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VariableQues {
+public class VariablesQues {
     public static void main(String[] args) {
         // 1. Write a Java program to convert temperature from Fahrenheit to Celsius
         // degrees. C = (F - 32) * 5/9
