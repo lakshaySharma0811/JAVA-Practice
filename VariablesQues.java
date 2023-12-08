@@ -94,6 +94,17 @@ public class VariablesQues {
         // sc.close();
 
 
+        // 8. Write a Java program that reads a number and displays the square, cube,
+        // and fourth power.
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter a number: ");
+        // double num = sc.nextInt();
+        // double square = num * num;
+        // double cube = square * num;
+        // double fourthPower = cube * num;
 
+        // System.out.println("Square of the number is " + square + ", Cube of the number is " + cube
+        //         + " and Fourth Power of the number is " + fourthPower);
+        // sc.close();
     }
 }
