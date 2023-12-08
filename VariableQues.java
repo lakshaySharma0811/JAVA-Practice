@@ -64,7 +64,35 @@ public class VariableQues {
         // double height = sc.nextInt();
         // double bmi = 703 * (weight / (height * height));
         // System.out.println("Body Mass Index is " + bmi);
-        // sc.close();        
+        // sc.close();   
+
+        
+        // 7. Write a Java program to take the user for a distance (in meters) and the
+        // time taken (as three numbers: hours, minutes, seconds), and display the
+        // speed, in meters per second, kilometers per hour and miles per hour (hint: 1
+        // mile = 1609 meters).
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter the distance in meters: ");
+        // float distInMeters = sc.nextFloat();
+        // System.out.print("Enter the time in hours: ");
+        // float timeInHrs = sc.nextFloat();
+        // System.out.print("Enter the time in minutes: ");
+        // float timeInMins = sc.nextFloat();
+        // System.out.print("Enter the time in seconds: ");
+        // float timeInSecs = sc.nextFloat();
+
+        // float hrsToSecs = timeInHrs * 60 * 60;
+        // float minsToSecs = timeInMins * 60;
+
+        // float speed_1 = distInMeters / (timeInSecs + hrsToSecs + minsToSecs);
+        // float speed_2 = (18.0f / 5.0f) * (speed_1);
+        // float speed_3 = (0.62f) * speed_2;
+        // System.out.println("Speed in meters/second is " + speed_1);
+        // System.out.println("Speed in km/h is " + speed_2);
+        // System.out.println("Speed in miles/h is " + speed_3);
+
+        // sc.close();
+
 
 
     }
