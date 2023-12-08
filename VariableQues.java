@@ -40,15 +40,32 @@ public class VariableQues {
 
         
         // 4. Write a Java program to convert minutes into years and days.
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Number of minutes: ");
-        double mins = sc.nextDouble();
-        double yrs = mins / (365 * 24 * 60);
-        double days = mins / (24 * 60);
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Number of minutes: ");
+        // int mins = sc.nextInt();
+        // int yrs = mins / (365 * 24 * 60);
+        // int days = mins / (24 * 60);
 
-        System.out.println(mins + " minutes is approximately " + yrs + " years and " + days + " days.");
+        // System.out.println(mins + " minutes is approximately " + yrs + " years and "
+        // + days + " days.");
 
-        sc.close();
+        // sc.close();
+
+
+        // 5. Write a Java program that prints the current time in GMT.
+
+        
+        // 6. Write a Java program to compute the body mass index (BMI). (BMI = weight
+        // (lb) / [height (in)]^2 x 703)
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("Enter the weight n pounds: ");
+        // double weight = sc.nextInt();
+        // System.out.print("Enter the height in inches: ");
+        // double height = sc.nextInt();
+        // double bmi = 703 * (weight / (height * height));
+        // System.out.println("Body Mass Index is " + bmi);
+        // sc.close();        
+
 
     }
 }
