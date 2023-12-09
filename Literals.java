@@ -22,5 +22,18 @@ public class Literals {
         // System.out.println(hexaDeciNum);
         // (2 * 16^1) + (15 * 16^0) = 47
 
+
+        
+        // Floating point literals :-
+
+        // float floatNum = 12.385f;
+        // System.out.println(floatNum);
+
+        // double doubleNum = 12.0;
+        // System.out.println(doubleNum);
+
+        // Char :-
+        // char ch = 'V';
+        // System.out.println(ch);
     }
 }
