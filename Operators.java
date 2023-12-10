@@ -34,5 +34,16 @@ public class Operators {
         // a /= b -> a = a / b
         // a %= b -> a = a % b
 
+
+        // 3. Relational operators (always return boolean value)
+        // ==, =!, >=, <=, >, <
+        // int a = 10, b = 20;
+        // System.out.println(a == b); // False
+        // System.out.println(a != b); // True
+        // System.out.println(a > b); // False
+        // System.out.println(a < b); // True
+        // System.out.println(a >= b); // False
+        // System.out.println(a <= b); // True  
+
     }
 }
