@@ -45,5 +45,16 @@ public class Operators {
         // System.out.println(a >= b); // False
         // System.out.println(a <= b); // True  
 
+        
+        // 4. Logical operators (always return a boolean value)
+        // AND(&&), OR(||), NOT(!)
+        // AND -> true if both the expressions are true.
+        // OR -> true if either of the expressions is true.
+        // NOT -> true if expression is false and vice versa.
+
+        // int a = 10, b = 20, c = 30;
+        // System.out.println(((a > b) && (b > c)) || !(a == c));
+        // Precedence order -> NOT > AND > OR
+
     }
 }
