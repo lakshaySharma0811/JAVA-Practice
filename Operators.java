@@ -1,7 +1,7 @@
 
 public class Operators {
     public static void main(String[] args) {
-        // Operators :-
+        // Operators - It is a way to tell the compiler to do the operations between the operands.
 
         // 1. Arithmetic operators
 
@@ -24,6 +24,15 @@ public class Operators {
         // System.out.println(a--); // First assign the value then decrease
         // System.out.println(--a); // First decrease then assign the value
 
+        
+        // 2. Assignment operators
+        // =, +=, -=, *=, /=, %=
+        // a = b // b is going in a
+        // a += b -> a = a + b
+        // a -= b -> a = a - b
+        // a *= b -> a = a * b
+        // a /= b -> a = a / b
+        // a %= b -> a = a % b
 
     }
 }
