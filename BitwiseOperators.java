@@ -24,5 +24,12 @@ public class BitwiseOperators {
 
         // int bitwiseXOR = a ^ b; // 1001
         // System.out.println(bitwiseXOR);
+
+        
+        // int rightShift = a >> 2; // 0011
+        // System.out.println(rightShift);
+
+        // int leftShift = a << 1; // 01000
+        // System.out.println(leftShift);
     }
 }
