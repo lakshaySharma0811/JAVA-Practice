@@ -13,11 +13,16 @@ public class BitwiseOperators {
         // Bitwise complement (~)
         // Bitwise right shift operator (>>)
         // Bitwise left shift operator (<<)
+        // int a = 12; // 1100
+        // int b = 5; // 0101
 
-        int a = 12; // 1100
-        int b = 5; // 0101
+        // int bitwiseOR = a | b; // 1101
+        // System.out.println(bitwiseOR);
 
-        int bitwiseOR = a | b; // 1101
-        System.out.println(bitwiseOR);
+        // int bitwiseAND = a & b; // 0100
+        // System.out.println(bitwiseAND);
+
+        // int bitwiseXOR = a ^ b; // 1001
+        // System.out.println(bitwiseXOR);
     }
 }
