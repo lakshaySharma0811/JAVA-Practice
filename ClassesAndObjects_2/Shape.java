@@ -1,6 +1,6 @@
 public class Shape {
-    private int breadth;
-    private int length;
+    public int breadth;
+    public int length;
 
     Shape(int length, int breadth) {
         this.breadth = breadth;
@@ -12,3 +12,4 @@ public class Shape {
     }
 
 }
+
